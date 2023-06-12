@@ -7,7 +7,10 @@ git status
 **whenever we commit our head pointer point to that commit**
 
 git branch
-git checkout master
+git checkout <branchName>
+git checkout -b <newBranchName>
+
+
 
 
 
