@@ -40,8 +40,8 @@ git checkout -b <newBranchName>
 
 
 
+ git branch -d internt(to delete internet branch)
+ git merge music (to merge music branch to master branch)
 
 
 
-
->>>>>>> internet
