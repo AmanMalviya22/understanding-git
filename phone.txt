@@ -6,6 +6,7 @@ git diff
 git status
 **whenever we commit our head pointer point to that commit**
 
+<<<<<<< HEAD
 git branch (see current working branch)
 git checkout <branchName> (switching new branch)
 git checkout -b <newBranchName> (create new branch)
@@ -22,3 +23,25 @@ git checkout <branchName> //switching a new branch
 git branch -m old-branch new-branch //for renaming branch
 git branch -d <branchName> // for deleting
  git merge branchName(to merge in master branch)
+=======
+git branch
+git checkout <branchName>
+git checkout -b <newBranchName>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> internet
