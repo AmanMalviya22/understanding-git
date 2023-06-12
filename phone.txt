@@ -6,6 +6,19 @@ git diff
 git status
 **whenever we commit our head pointer point to that commit**
 
-git branch
-git checkout <branchName>
-git checkout -b <newBranchName>
+git branch (see current working branch)
+git checkout <branchName> (switching new branch)
+git checkout -b <newBranchName> (create new branch)
+git init (initialize git repository)
+git add . || git add <filename> (add file to staging area)
+git log (to show history of logs of commits)
+git commit -m "commit message" (to commit the file)
+git diff // show what changes and updation is added to file in comparison to previous file (- indicate deletion)  (+ indicate added)
+git status //show which file have been changed
+**whenever we commit our head pointer point to that commit**
+
+git branch //to see current branch
+git checkout <branchName> //switching a new branch
+git branch -m old-branch new-branch //for renaming branch
+git branch -d <branchName> // for deleting
+ git merge branchName(to merge in master branch)
