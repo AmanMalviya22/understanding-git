@@ -1,3 +1,6 @@
+vim editor command (type commit message -->[ press ESC key]--[type :wq]--[press Enter])
+
+
 git init
 git add . || git add <filename>
 git log
