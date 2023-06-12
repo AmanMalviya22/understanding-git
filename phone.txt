@@ -1,3 +1,11 @@
-phone
-address
-name 
+git init
+git add . || git add <filename>
+git log
+git commit -m "commit message"
+git diff
+git status
+**whenever we commit our head pointer point to that commit**
+
+git branch
+git checkout <branchName>
+git checkout -b <newBranchName>
