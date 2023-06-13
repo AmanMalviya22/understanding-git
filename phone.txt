@@ -33,6 +33,9 @@ git checkout -b <newBranchName>
 
 
 
+git push origin movies (push movies branch on github)
+
+
 
 
 
